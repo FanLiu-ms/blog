@@ -14,6 +14,12 @@ alias:
 - Exchange 2013-2016 のセーフティネットの保存期間/index.html
 - About-Language-Settings-in-Office-365/index.html
 - Office 365 の言語設定について/index.html
+- About-Controlling-Office-365-Groups/index.html
+- Office 365 グループの制御方法について/index.html
+- How-to-Handle-Domains-Registered-via-Self-Service-Sign-Up/index.html
+- セルフサービス サインアップで登録されたドメインの対処方法/index.html
+- Notice-of-Changes-to-Malware-Sample-Submission-Methods/index.html
+- マルウェア検体の提出方法の変更のお知らせ/index.html
 ---
 
 アクセスされた記事は公開を終了しました。
